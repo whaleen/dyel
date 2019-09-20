@@ -24,3 +24,5 @@ fields:
   hidden: true
   label: Permalink
   default: recipe
+pages:
+- _posts/mash-mash.md
