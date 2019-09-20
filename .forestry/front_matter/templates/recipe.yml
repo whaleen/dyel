@@ -2,3 +2,5 @@
 label: Recipe
 hide_body: false
 fields: []
+pages:
+- _posts/bronze-age-mindset.md
