@@ -24,5 +24,3 @@ fields:
   hidden: true
   label: Permalink
   default: recipe
-pages:
-- _posts/2019-09-19-bronze-age-mindset.md
