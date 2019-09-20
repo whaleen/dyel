@@ -17,14 +17,12 @@ fields:
     time_format: 
     display_utc: false
   hidden: false
-- name: body
-  type: textarea
-  default: ''
+- name: permalink
+  type: text
   config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: Body
+    required: true
+  hidden: true
+  label: Permalink
+  default: recipe
 pages:
 - _posts/bronze-age-mindset.md
